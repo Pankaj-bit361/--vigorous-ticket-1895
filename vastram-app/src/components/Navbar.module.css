@@ -1,0 +1,7 @@
+.navDropdown{
+
+    /* border: 1px solid red; */
+}
+.navDropdown:hover{
+    border-top: 4.8px solid #701C1C;
+}
